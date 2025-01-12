@@ -16,9 +16,14 @@ public static void main(String Args[])
             if(n%i==0)
             {
                ans=false;
-                
+                break;
             }
         }
+     if(n==1)
+     {
+        ans=false;
+     }
+        
        if(ans)
        {
         System.out.print("prime");
