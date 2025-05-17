@@ -1,1 +1,0 @@
-System.out.println("level "+ level+" root: "+ root.val);
