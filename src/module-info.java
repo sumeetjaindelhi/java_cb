@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Dsa_practice {
+module Jan_DSA {
 }
