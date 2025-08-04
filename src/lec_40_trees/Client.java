@@ -13,6 +13,8 @@ public class Client {
 		System.out.println();
 		tree.postOrder(tree.root);
 		
+		
+		
 	}
 
 }
